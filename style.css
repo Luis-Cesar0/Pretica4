@@ -42,7 +42,14 @@ a{
 }
 
 #corpo{
-    background-color: rgb(249, 249, 252);
+    background-color: #f9f9fc;
     width: 50%;
     padding: 10px;
+}
+#fundo{
+    background-color: #2155ff;
+    font-size: 15px;
+    text-align: center;
+    width: 100%;
+    color: #fff;
 }
